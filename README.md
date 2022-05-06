@@ -51,3 +51,7 @@ Trained resnet50 model h5 file link - [Link](https://drive.google.com/file/d/1ZS
 ## Screenshots
 
 ![Example screenshot](./images/custom_dataset.png)
+
+## Future Work
+
+We have written a live_demo python script for live prediction using OpenCV which is yet to be loaded with the trained ResNet50 h5 file. This is still in works.
